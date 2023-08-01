@@ -1,0 +1,146 @@
+/* BODY */
+body{
+    background-color: bisque;
+}
+
+/*Logo*/
+.logo{
+    width: 10rem;  
+    
+}
+
+
+/* HEADER */
+.colorHeader{
+    
+    background-color: #4A0805;
+    border-bottom: black solid 2px;
+}
+
+.fuentesHeader{
+ 
+ font-size: 1rem;
+ padding-left: 2rem;
+ text-transform: uppercase;
+ 
+}
+.colorFont{
+    color: #fafafa;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.colorFont2{
+    font-size: 40px;
+    color: #fafafa;
+
+}
+
+/*TEXTOS*/
+.text{
+    text-align: center;
+    margin: 10px;
+}
+
+.modelosSub{
+    
+    padding: 2rem;
+    text-align: end;
+}
+/* BARRA AUTOS VOLKSWAGEN*/
+
+.tituloAutos{
+    background-color: #4A0805;
+    color: #fafafa;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 1rem;
+    
+    font-size: 1rem;
+}
+.tituloCamionetas{
+    background-color: #4A0805;
+    color: #fafafa;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 1rem;
+    font-size: 1rem;
+
+}
+/* COLOR FONDO AUTOS Y CAMIONETAS*/
+
+.bgci{
+    background-color: #E5E8E8;
+    margin-top: 70px;
+    padding-top: 200px;
+    
+}
+/*CAROUSEL*/
+.imgCarousel{
+    height:650px;
+    object-fit: cover; 
+}
+
+.contacto{
+    text-align: center;
+}
+
+.footer{
+    cursor: pointer;
+}
+
+.infoContacto{
+    
+    padding: 30px;
+    margin: 30px;
+    
+}
+.cont{
+    padding: 3px;
+}
+
+.enviar{
+    padding: 3px;
+    
+}
+.contacto{
+    padding-top: 35px;
+    margin-top: 20px;
+}
+
+
+.planCompra{
+    width: 20px;
+    height: 20px;
+    
+}
+
+.compra{
+    width: 20px;
+    height: 20px;
+
+}
+
+.bgPlan{
+    background-color: #4A0805;
+    text-align: center;
+    margin: 25px 8px;
+}
+
+.bgbtn{
+    background-color: #931711;
+    color: #fafafa;
+    
+}
+
+.bgbtn:hover{
+    background-color:#4A0805;
+    color: bisque;
+}
+
+.border{
+    border-top: solid 2px #931711;
+}
+
